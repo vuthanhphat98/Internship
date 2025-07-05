@@ -1,4 +1,4 @@
-# 📝 Worklog Guidelines - AWS Internship
+# 📝 Worklog Guidelines - FCJ Internship
 
 [![Documentation](https://img.shields.io/badge/Type-Documentation-blue)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![Weight](https://img.shields.io/badge/Weight-30%25-orange)](https://github.com/AWS-First-Cloud-Journey/Internship)

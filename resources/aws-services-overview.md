@@ -1,11 +1,11 @@
-# 🚀 AWS Services Overview - AWS Internship Reference
+# 🚀 AWS Services Overview - FCJ Internship Reference
 
 [![AWS](https://img.shields.io/badge/AWS-Services-orange)](https://aws.amazon.com/)
 [![Reference](https://img.shields.io/badge/Type-Reference-blue)](https://github.com/AWS-First-Cloud-Journey/Internship)
 
 ## 🎯 Mục đích
 
-Tài liệu này cung cấp overview về các AWS services quan trọng nhất cho AWS Internship Program, giúp thực tập sinh:
+Tài liệu này cung cấp overview về các AWS services quan trọng nhất cho FCJ Internship Program, giúp thực tập sinh:
 
 - **📚 Quick Reference**: Tra cứu nhanh thông tin services
 - **🎯 Project Planning**: Chọn services phù hợp cho project proposal

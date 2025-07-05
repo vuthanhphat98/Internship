@@ -1,11 +1,11 @@
-# 🏆 AWS Certification Roadmap - AWS Internship
+# 🏆 AWS Certification Roadmap - FCJ Internship
 
 [![AWS](https://img.shields.io/badge/AWS-Certifications-orange)](https://aws.amazon.com/certification/)
 [![Career](https://img.shields.io/badge/Type-Career%20Development-green)](https://github.com/AWS-First-Cloud-Journey/Internship)
 
 ## 🎯 Mục đích
 
-Roadmap này giúp AWS interns lập kế hoạch học tập và certification path phù hợp với career goals và timeline thực tập.
+Roadmap này giúp FCJ interns lập kế hoạch học tập và certification path phù hợp với career goals và timeline thực tập.
 
 ---
 
@@ -26,7 +26,7 @@ Roadmap này giúp AWS interns lập kế hoạch học tập và certification 
 
 ---
 
-## 🚀 Recommended Path for AWS Interns
+## 🚀 Recommended Path for FCJ Interns
 
 ### Phase 1: Foundation (Month 1)
 #### AWS Certified Cloud Practitioner
@@ -180,7 +180,7 @@ Choose one based on career interest:
 
 ---
 
-## 📅 Study Timeline for AWS Interns
+## 📅 Study Timeline for FCJ Interns
 
 ### 8-Week Internship Timeline
 
@@ -372,7 +372,7 @@ Choose one based on career interest:
 
 ---
 
-## 🎯 AWS Intern Specific Recommendations
+## 🎯 FCJ Intern Specific Recommendations
 
 ### For 2-Month Internship
 **Realistic Goal**: Cloud Practitioner + Associate preparation
@@ -394,7 +394,7 @@ Choose one based on career interest:
 
 ---
 
-**🎯 Remember**: Certifications are valuable, but practical experience and project portfolio are equally important. Use your AWS internship to build both!
+**🎯 Remember**: Certifications are valuable, but practical experience and project portfolio are equally important. Use your FCJ internship to build both!
 
 ---
 

@@ -1,4 +1,4 @@
-# 📊 Project Proposal Guidelines - AWS Internship
+# 📊 Project Proposal Guidelines - FCJ Internship
 
 [![Documentation](https://img.shields.io/badge/Type-Documentation-blue)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![Weight](https://img.shields.io/badge/Weight-50%25-red)](https://github.com/AWS-First-Cloud-Journey/Internship)
@@ -6,7 +6,7 @@
 
 ## 🎯 Mục đích Project Proposal
 
-Project Proposal là **deliverable quan trọng nhất** (50% tổng điểm) trong chương trình AWS Internship. Đây không chỉ là bài tập mà là cơ hội để:
+Project Proposal là **deliverable quan trọng nhất** (50% tổng điểm) trong chương trình FCJ Internship. Đây không chỉ là bài tập mà là cơ hội để:
 
 - **🏗️ Architecture Design**: Thiết kế giải pháp AWS cho bài toán thực tế
 - **💼 Business Analysis**: Phân tích business case và ROI

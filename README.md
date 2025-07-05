@@ -1,13 +1,13 @@
-# AWS Internship Program - Early Completion Requirements
+# First Cloud Journey (FCJ) Internship Program - Early Completion Requirements
 
-[![AWS](https://img.shields.io/badge/AWS-Internship-blue)](https://aws.amazon.com/)
+[![FCJ](https://img.shields.io/badge/FCJ-Internship-blue)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
 [![Duration](https://img.shields.io/badge/Duration-2%2F3%20months-green)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/AWS-First-Cloud-Journey/Internship)
 
 ## 🎯 Tổng quan chương trình
 
-**AWS Internship Program** là chương trình thực tập chuyên sâu về AWS Cloud Computing với thời gian chuẩn **3 tháng**. Tuy nhiên, các thực tập sinh xuất sắc có thể xin xác nhận hoàn thành sớm sau **2 tháng** nếu đáp ứng đầy đủ các tiêu chí nghiêm ngặt.
+**First Cloud Journey (FCJ) Internship Program** là chương trình thực tập chuyên sâu về AWS Cloud Computing với thời gian chuẩn **3 tháng**. Tuy nhiên, các thực tập sinh xuất sắc có thể xin xác nhận hoàn thành sớm sau **2 tháng** nếu đáp ứng đầy đủ các tiêu chí nghiêm ngặt.
 
 ### 🏆 Mục tiêu chương trình
 - Phát triển kỹ năng AWS Cloud Architecture và DevOps
@@ -151,7 +151,7 @@ cp -r ../../blog-translation/template.md blog-translation/
 ## 🏅 Lợi ích khi hoàn thành sớm
 
 ### Immediate Benefits
-- **Certificate**: Chứng chỉ hoàn thành AWS Internship
+- **Certificate**: Chứng chỉ hoàn thành FCJ Internship
 - **Recommendation**: Letter of recommendation từ mentor
 - **Portfolio**: Bộ sưu tập dự án AWS chất lượng cao
 
@@ -242,4 +242,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Cập nhật lần cuối: 2024-07-05*  
 *Phiên bản: 2.0.0*  
-*Được duy trì bởi: AWS Internship Team*
+*Được duy trì bởi: FCJ Team*

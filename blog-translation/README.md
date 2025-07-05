@@ -1,4 +1,4 @@
-# ✍️ Blog Translation Guidelines - AWS Internship
+# ✍️ Blog Translation Guidelines - FCJ Internship
 
 [![Documentation](https://img.shields.io/badge/Type-Documentation-blue)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![Weight](https://img.shields.io/badge/Weight-20%25-yellow)](https://github.com/AWS-First-Cloud-Journey/Internship)
@@ -156,7 +156,7 @@ Blog Translation là cơ hội để thực tập sinh:
 > **👤 Tác giả**: [Author name and title]  
 > **📅 Ngày xuất bản**: [Original publish date]  
 > **🌐 Nguồn**: [Publication name]  
-> **👨‍💻 Người dịch**: [Your name] - AWS Intern  
+> **👨‍💻 Người dịch**: [Your name] - FCJ Intern  
 > **📅 Ngày dịch**: [Translation date]  
 > **⏱️ Thời gian đọc**: [Estimated reading time] phút
 
@@ -233,7 +233,7 @@ Blog Translation là cơ hội để thực tập sinh:
 
 ## 🤝 Đóng góp và Feedback
 
-Bài dịch này được thực hiện trong khuôn khổ **AWS Internship Program**. 
+Bài dịch này được thực hiện trong khuôn khổ **FCJ Internship Program**. 
 
 **📧 Liên hệ**: [your-email@domain.com]  
 **💬 Feedback**: Mọi góp ý để cải thiện chất lượng dịch thuật xin gửi về email trên  

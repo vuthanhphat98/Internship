@@ -1,4 +1,4 @@
-# 📋 Submission Checklist - AWS Internship Early Completion
+# 📋 Submission Checklist - FCJ Internship Early Completion
 
 [![Checklist](https://img.shields.io/badge/Type-Checklist-green)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![Required](https://img.shields.io/badge/Status-Required-red)](https://github.com/AWS-First-Cloud-Journey/Internship)

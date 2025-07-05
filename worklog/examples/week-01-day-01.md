@@ -18,7 +18,7 @@
 ### 1. Orientation và Program Overview ⏱️ 8:00-10:00
 - **Mô tả**: 
   - Tham gia meeting với mentor và team
-  - Tìm hiểu về AWS Internship Program structure
+  - Tìm hiểu về FCJ Internship Program structure
   - Nhận access vào Slack workspace và GitHub organization
   - Review timeline và deliverables cho 8 tuần
 - **Kết quả**: 
@@ -39,7 +39,7 @@
   - Configure AWS CLI với access keys
 - **Kết quả**: 
   - AWS account active với $300 credits
-  - IAM user "aws-intern-user" được tạo thành công
+  - IAM user "fcj-intern-user" được tạo thành công
   - AWS CLI configured và test thành công
 - **Tools/Tech**: AWS Console, AWS CLI, Ubuntu Terminal
 - **Links**: 
@@ -74,7 +74,7 @@
   - List 5 potential project ideas cho proposal
 - **Tools/Tech**: GitHub, VS Code, Markdown
 - **Links**: 
-  - [My Internship Repo](https://github.com/username/aws-internship)
+  - [My Internship Repo](https://github.com/username/fcj-internship)
   - [Project Ideas Document](https://docs.google.com/document/d/project-ideas)
 
 ## 📚 Kiến thức học được
@@ -213,7 +213,7 @@
 ## 📎 Attachments & Links
 
 ### Code & Projects
-- [GitHub Repository Setup](https://github.com/username/aws-internship)
+- [GitHub Repository Setup](https://github.com/username/fcj-internship)
 - [AWS CLI Configuration](https://gist.github.com/username/aws-cli-setup)
 
 ### Learning Resources
@@ -237,5 +237,5 @@
 Day 1/5 completed. On track với week 1 goals. Need to increase hands-on practice ratio.
 
 ---
-*Worklog created by: Nguyễn Văn A - AWS Intern Batch 2024*  
+*Worklog created by: Nguyễn Văn A - FCJ Intern Batch 2024*  
 *Next review: 16/07/2024 - Daily standup*
