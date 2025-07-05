@@ -1,13 +1,13 @@
-# FCJ Internship Program - Early Completion Requirements
+# AWS Internship Program - Early Completion Requirements
 
-[![FCJ](https://img.shields.io/badge/FCJ-Internship-blue)](https://fcj.vn/)
+[![AWS](https://img.shields.io/badge/AWS-Internship-blue)](https://aws.amazon.com/)
 [![AWS](https://img.shields.io/badge/AWS-Cloud-orange)](https://aws.amazon.com/)
-[![Duration](https://img.shields.io/badge/Duration-2%2F3%20months-green)](https://fcj.vn/)
+[![Duration](https://img.shields.io/badge/Duration-2%2F3%20months-green)](https://github.com/AWS-First-Cloud-Journey/Internship)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)](https://github.com/AWS-First-Cloud-Journey/Internship)
 
 ## 🎯 Tổng quan chương trình
 
-**AWS First Cloud Journey (FCJ) Internship Program** là chương trình thực tập chuyên sâu về AWS Cloud Computing với thời gian chuẩn **3 tháng**. Tuy nhiên, các thực tập sinh xuất sắc có thể xin xác nhận hoàn thành sớm sau **2 tháng** nếu đáp ứng đầy đủ các tiêu chí nghiêm ngặt.
+**AWS Internship Program** là chương trình thực tập chuyên sâu về AWS Cloud Computing với thời gian chuẩn **3 tháng**. Tuy nhiên, các thực tập sinh xuất sắc có thể xin xác nhận hoàn thành sớm sau **2 tháng** nếu đáp ứng đầy đủ các tiêu chí nghiêm ngặt.
 
 ### 🏆 Mục tiêu chương trình
 - Phát triển kỹ năng AWS Cloud Architecture và DevOps
@@ -151,13 +151,13 @@ cp -r ../../blog-translation/template.md blog-translation/
 ## 🏅 Lợi ích khi hoàn thành sớm
 
 ### Immediate Benefits
-- **Certificate**: Chứng chỉ hoàn thành FCJ Internship
+- **Certificate**: Chứng chỉ hoàn thành AWS Internship
 - **Recommendation**: Letter of recommendation từ mentor
 - **Portfolio**: Bộ sưu tập dự án AWS chất lượng cao
 
 ### Career Benefits  
-- **Job Opportunities**: Ưu tiên trong các vị trí AWS tại FCJ partners
-- **Networking**: Kết nối với AWS community và professionals
+- **Job Opportunities**: Ưu tiên trong các vị trí AWS tại partner companies
+- **Networking**: Kết nối với AWS professionals và industry experts
 - **Mentorship**: Cơ hội trở thành mentor cho batch tiếp theo
 
 ### Learning Benefits
@@ -171,8 +171,8 @@ cp -r ../../blog-translation/template.md blog-translation/
 
 ### Mentor Support
 - **Office Hours**: Thứ 2, 4, 6 - 14:00-16:00 GMT+7
-- **Slack**: #fcj-internship-support
-- **Email**: mentors@fcj.vn
+- **Slack**: #internship-support
+- **Email**: mentors@example.com
 
 ### Peer Support
 - **Study Groups**: Tham gia study groups hàng tuần
@@ -181,8 +181,8 @@ cp -r ../../blog-translation/template.md blog-translation/
 
 ### Resources
 - **AWS Documentation**: https://docs.aws.amazon.com/
-- **FCJ Learning Path**: https://fcj.vn/learning-path
-- **Community Forum**: https://forum.fcj.vn
+- **AWS Training**: https://aws.amazon.com/training/
+- **Technical Support**: [tech-support@example.com]
 
 ---
 
@@ -211,15 +211,10 @@ Chúng tôi hoan nghênh contributions để cải thiện chương trình:
 - [AWS Architecture Center](https://aws.amazon.com/architecture/)
 - [AWS Whitepapers](https://aws.amazon.com/whitepapers/)
 
-### FCJ Resources
-- [FCJ Website](https://fcj.vn/)
-- [FCJ Blog](https://blog.fcj.vn/)
-- [FCJ YouTube Channel](https://youtube.com/@fcjvn)
-
-### Community
-- [AWS Vietnam User Group](https://www.facebook.com/groups/awsvietnam)
-- [r/aws Subreddit](https://reddit.com/r/aws)
-- [AWS Community Builders](https://aws.amazon.com/developer/community/community-builders/)
+### Additional Resources
+- [AWS Training and Certification](https://aws.amazon.com/training/)
+- [AWS Skill Builder](https://skillbuilder.aws/)
+- [AWS Workshops](https://workshops.aws/)
 
 ---
 
@@ -247,4 +242,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 *Cập nhật lần cuối: 2024-07-05*  
 *Phiên bản: 2.0.0*  
-*Được duy trì bởi: FCJ Team*
+*Được duy trì bởi: AWS Internship Team*
