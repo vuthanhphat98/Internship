@@ -241,18 +241,6 @@ Rate your confidence in each area (1-10):
 
 ---
 
-## 📞 Support Contacts
-
-### If You Need Help
-- **Mentor**: [mentor-email@example.com]
-- **Peer Support**: #internship-help Slack channel
-- **Technical Issues**: [tech-support@example.com]
-- **Administrative**: [admin@example.com]
-
-### Emergency Contacts
-- **Program Manager**: [pm@example.com]
-- **Director**: [director@example.com]
-
 ---
 
 ## 🎉 Submission Statement

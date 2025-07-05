@@ -167,23 +167,6 @@ cp -r ../../blog-translation/template.md blog-translation/
 
 ---
 
-## 📞 Hỗ trợ và liên hệ
-
-### Mentor Support
-- **Office Hours**: Thứ 2, 4, 6 - 14:00-16:00 GMT+7
-- **Slack**: #internship-support
-- **Email**: mentors@example.com
-
-### Peer Support
-- **Study Groups**: Tham gia study groups hàng tuần
-- **Code Review**: Peer review sessions
-- **Knowledge Sharing**: Weekly tech talks
-
-### Resources
-- **AWS Documentation**: https://docs.aws.amazon.com/
-- **AWS Training**: https://aws.amazon.com/training/
-- **Technical Support**: [tech-support@example.com]
-
 ---
 
 ## 🤝 Contributing

@@ -453,23 +453,6 @@ Project Proposal là **deliverable quan trọng nhất** (50% tổng điểm) tr
 
 ---
 
-## 📞 Support Resources
-
-### Office Hours
-- **Mentor Sessions**: Tuesdays & Thursdays, 2-4 PM
-- **Peer Study Groups**: Wednesdays, 7-9 PM
-- **Architecture Reviews**: Fridays, 10 AM-12 PM
-
-### Online Support
-- **Slack Channel**: #project-proposal-help
-- **Discussion Forum**: [Community Forum](https://forum.example.com)
-- **Resource Library**: [Knowledge Base](https://kb.example.com)
-
-### Expert Consultations
-- **AWS Solutions Architects**: Monthly guest sessions
-- **Industry Experts**: Quarterly masterclasses
-- **Alumni Network**: Peer mentoring program
-
 ---
 
 **🎯 Remember**: Your proposal should demonstrate not just technical knowledge, but also business acumen và strategic thinking. This is your opportunity to showcase your potential as a future cloud architect và business consultant!
