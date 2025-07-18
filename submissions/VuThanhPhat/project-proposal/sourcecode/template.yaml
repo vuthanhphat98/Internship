@@ -1,0 +1,73 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  aws-sam-image-processor
+
+  Ứng dụng Serverless để tự động tạo thumbnail cho ảnh được tải lên S3.
+  Định nghĩa toàn bộ hạ tầng cần thiết cho ứng dụng.
+
+Globals:
+  Function:
+    Timeout: 30 # Thời gian chạy tối đa cho tất cả các hàm trong template là 30 giây
+
+Resources:
+  # Định nghĩa S3 bucket để chứa ảnh gốc
+  SourceImageBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      # Cấu hình để ngăn chặn việc vô tình xóa bucket khi xóa stack
+      DeletionPolicy: Retain
+      # Chặn mọi truy cập công khai vào bucket này
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+
+  # Định nghĩa S3 bucket để chứa ảnh thumbnail đã xử lý
+  DestinationImageBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      DeletionPolicy: Retain
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        BlockPublicPolicy: true
+        IgnorePublicAcls: true
+        RestrictPublicBuckets: true
+
+  # Định nghĩa hàm AWS Lambda chính
+  ImageProcessorFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/ # Thư mục chứa mã nguồn (app.py và file requirements.txt nếu có)
+      Handler: app.lambda_handler # Tên file là app, tên hàm là lambda_handler
+      Runtime: python3.9
+      Architectures:
+        - x86_64
+      MemorySize: 256 # Cấp phát 256MB bộ nhớ, đủ cho việc xử lý ảnh cơ bản
+      Environment:
+        Variables:
+          # Truyền tên bucket đích vào làm biến môi trường cho Lambda
+          DEST_BUCKET: !Ref DestinationImageBucket
+      Policies:
+        # Chính sách được AWS SAM quản lý, cấp quyền cho Lambda đọc từ bucket nguồn
+        - S3ReadPolicy:
+            BucketName: !Ref SourceImageBucket
+        # Chính sách được AWS SAM quản lý, cấp quyền cho Lambda ghi vào bucket đích
+        - S3WritePolicy:
+            BucketName: !Ref DestinationImageBucket
+  Events:
+    # Định nghĩa sự kiện sẽ kích hoạt hàm Lambda này
+    S3Event:
+      Type: S3
+      Properties:
+        Bucket: !Ref SourceImageBucket
+        Events: s3:ObjectCreated:* # Kích hoạt khi có bất kỳ đối tượng mới nào được tạo
+
+Outputs:
+  SourceBucketName:
+    Description: "Tên của S3 bucket chứa ảnh gốc"
+    Value: !Ref SourceImageBucket
+  DestinationBucketName:
+    Description: "Tên của S3 bucket chứa ảnh thumbnail"
+    Value: !Ref DestinationImageBucket
